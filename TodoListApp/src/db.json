@@ -1,0 +1,19 @@
+{
+  "todos": [
+    {
+      "id": "b3ed",
+      "task": "krunal",
+      "completed": true
+    },
+    {
+      "id": "36ec",
+      "task": "syush",
+      "completed": true
+    },
+    {
+      "id": "ae96",
+      "task": "tas3",
+      "completed": false
+    }
+  ]
+}
